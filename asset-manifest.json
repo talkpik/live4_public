@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/live4_public/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/live4_public/static/js/main.bce56d6e.chunk.js",
+    "main.js.map": "/live4_public/static/js/main.bce56d6e.chunk.js.map",
+    "runtime-main.js": "/live4_public/static/js/runtime-main.1152eee6.js",
+    "runtime-main.js.map": "/live4_public/static/js/runtime-main.1152eee6.js.map",
+    "static/css/2.dc17f35a.chunk.css": "/live4_public/static/css/2.dc17f35a.chunk.css",
+    "static/js/2.faba57e9.chunk.js": "/live4_public/static/js/2.faba57e9.chunk.js",
+    "static/js/2.faba57e9.chunk.js.map": "/live4_public/static/js/2.faba57e9.chunk.js.map",
+    "index.html": "/live4_public/index.html",
+    "precache-manifest.bef817840b7d841d85d0c672ef989626.js": "/live4_public/precache-manifest.bef817840b7d841d85d0c672ef989626.js",
+    "service-worker.js": "/live4_public/service-worker.js",
+    "static/css/2.dc17f35a.chunk.css.map": "/live4_public/static/css/2.dc17f35a.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/live4_public/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.faba57e9.chunk.js.LICENSE.txt": "/live4_public/static/js/2.faba57e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1152eee6.js",
+    "static/css/2.dc17f35a.chunk.css",
+    "static/js/2.faba57e9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bce56d6e.chunk.js"
+  ]
+}
